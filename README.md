@@ -1,7 +1,7 @@
 # ws-data.server
 data server admin tool on windows
 
-下载之后执行 *run.bat* 文件,然后就可以通过浏览器范围了
+下载之后执行 *run.bat* 文件,然后就可以通过浏览器访问
 
 - [Mongo Admin](http://localhost:19001/mongo.php)
 - [Db Admin](http://localhost:19001/db/)
